@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Hari Krishna",
+    "occupation": "ReactJS && Express FullStack Developer",
+    "description": "Full Stack React Developer by Day, Programmer && CS Engineering Student",
+    "image": "profile.jpg",
+    "bio": "My name is Hari, I'm a Full Stack ReactJS Developer. Currently I'm a Student at SRM University",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "harikrisna03092@gmail.com",
+    "phone": "+91 9566335782",
+    "address": {
+      "street": "169 Pandurangan Vittal street",
+      "city": "Salem",
+      "state": "TN",
+      "zip": "636006"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://docs.google.com/document/d/1LaI6mlNKLOVWdKKNPieaDe086dPfLnh-GajDXHW8CVE/export?format=pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/harikrishna03092",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/hari-krishna-b731601b1/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_hari_krishna_03/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Hari-krishna-tech",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "SRM University  Ramapuram",
+        "degree": "Computer Science And Engineering",
+        "graduated": "2024",
+        "description": "1ST Year"
+      }
+    ],
+    "work": [
+      {
+        "company": "Free Lancer",
+        "title": "Software Engineer",
+        "years": "2018 - NOW",
+        "description": "Worked on own personal Project"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "10%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Slack Clone with React",
+        "category": "Slack Clone built with React and Firebase",
+        "image": "Slack-clone.JPG",
+        "url": "https://slack-clone-996e5.web.app"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS and Firebase",
+        "image": "facebook-clone.JPG",
+        "url": "https://facebook-clone-d0d6a.firebaseapp.com/"
+      }
+    ]
+  }
+}
